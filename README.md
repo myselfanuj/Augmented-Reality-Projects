@@ -22,5 +22,5 @@ Follow the following steps for building this projects:-
 
 3.Open any project you cloned from this repository after successful installation of Spark AR Studio directly through opening `.arproj` file in SparkAR Studio
 
-For more information about Spark AR Studio go t [link](https://sparkar.facebook.com/ar-studio/learn/documentation/guides)
+For more information about Spark AR Studio go to this [link](https://sparkar.facebook.com/ar-studio/learn/documentation/guides)
  
