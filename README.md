@@ -3,9 +3,7 @@
 Augmented Reality Projects consists SparkAR based Projects 
 
 # GIFS
-
-## First AR Project Gif 
-<img src="gifs/gif1.gif" tittle ="Loading..">
+<img src="gifs/gif1.gif" tittle ="Loading..">   <img src="gifs/gif2.gif" tittle ="Loading..">
 
 
 # Building  Augmented-Reality-Projects
